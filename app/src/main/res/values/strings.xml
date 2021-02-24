@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MusicWiki</string>
+
+    <string name="api_key">d67b131f697fb02e650a03f01f87f81a</string>
+    <string name="shared_secret">772bfb1dec3f02b8e33e469ac53905d3</string>
 </resources>
